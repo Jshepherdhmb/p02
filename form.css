@@ -5,11 +5,11 @@ span.shown-message{
   opacity: 1.0;
 }
 a {
-color: white;
+color: yellow;
 }
 * {
 background-color: gray;
 font-family: monospace;
-color: white;
+color: yellow;
 
 }
