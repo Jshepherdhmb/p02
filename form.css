@@ -1,0 +1,15 @@
+span.hidden-message{
+  opacity: 0.0;
+}
+span.shown-message{
+  opacity: 1.0;
+}
+a {
+color: white;
+}
+* {
+background-color: gray;
+font-family: monospace;
+color: white;
+
+}
