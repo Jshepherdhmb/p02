@@ -85,7 +85,7 @@ var c = getCookie("righthard");
 c = Number(c);
 var percent = (a + b + c)/3
 
-document.getElementById("percent").innerHTML = "Percentage of answer questions guessed corectly = " + percent * 100 + "%";
+document.getElementById("percent").innerHTML = "Percentage of questions guessed corectly = " + percent * 100 + "%";
 }
 
 //courtesy of w3schools, from: http://www.w3schools.com/js/js_cookies.asp
